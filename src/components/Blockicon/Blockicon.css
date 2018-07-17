@@ -1,0 +1,26 @@
+.border {
+    border: 0px solid #473007;
+    padding: 15px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.border:hover {
+    color: #aaaaaa;
+    cursor: pointer;
+}
+
+
+.disabled { 
+    cursor: default;
+    background-color: red;
+    border: 0px solid #47072c;
+    padding: 15px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.border .fa .disabled {
+    cursor: default;
+    color: red;
+}

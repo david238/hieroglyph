@@ -1,0 +1,14 @@
+.button {
+    height: 60px;
+    width: 200px;
+    font-size: 22px;
+    cursor: pointer;
+    outline: none;
+    border:none;
+}
+
+.button:hover {
+    background-color: #cde;
+    outline: none;
+    border:none;
+}

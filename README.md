@@ -8,10 +8,10 @@ This simple registration form was created to express how long ago, during the an
 
 ## Technologies
 
-Front-End: React
-Cloud: AWS EC2
+Front-End: React <br/>
+Cloud: AWS EC2 <br/>
 Back-End: Nodejs/Expressjs
 
 ## Me
-David TIN SHOUK FONG
+David TIN SHOUK FONG<br/>
 linkedin: https://www.linkedin.com/in/davidtin/

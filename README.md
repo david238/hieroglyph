@@ -11,3 +11,7 @@ This simple registration form was created to express how long ago, during the an
 Front-End: React
 Cloud: AWS EC2
 Back-End: Nodejs/Expressjs
+
+## Me
+David TIN SHOUK FONG
+linkedin: https://www.linkedin.com/in/davidtin/
